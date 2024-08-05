@@ -31,4 +31,17 @@
 
 # Gestion de permisos
 1. Creacion de archivos y directorios 
+![alt text](<WhatsApp Image 2024-08-04 at 11.56.13 PM.jpeg>)
 
+2. Verificar permisos
+![alt text](<WhatsApp Image 2024-08-05 at 12.00.35 AM.jpeg>)
+
+3. Modificar permisos
+![alt text](<WhatsApp Image 2024-08-05 at 12.03.20 AM.jpeg>)
+
+![alt text](<WhatsApp Image 2024-08-05 at 12.05.57 AM.jpeg>)
+
+![alt text](<WhatsApp Image 2024-08-05 at 12.16.45 AM.jpeg>)
+
+4. Comprobacion de acceso
+![alt text](<WhatsApp Image 2024-08-05 at 12.18.08 AM.jpeg>)
