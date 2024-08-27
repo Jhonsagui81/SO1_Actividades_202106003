@@ -72,7 +72,7 @@ Ambos son mecanismos que causan un cambio de modo en un procesador, generalmente
 
 
 |Caracteristicas    |Interrupcion           |Trampa                 |
-|-------------------|-----------------------|-----------------      |   
+|-------------------|-----------------------|-----------------------|   
 |Origin             |Asincrono              |Sincrono               |               
 |Cause              |Hardware y software    |Instruccion programa   |
 |Proposito          |Notificar eventos      |Solicita servicio Sist.|
